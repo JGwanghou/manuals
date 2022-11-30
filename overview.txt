@@ -5,3 +5,8 @@ banana
 
 user2 content
 
+try{
+	conn = getConnection();
+}catch(Exception e){
+	logger.error
+}

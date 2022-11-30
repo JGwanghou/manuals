@@ -5,6 +5,7 @@ banana
 
 user2 content
 
+String ase = req.getParameter("ase");
 try{
 	conn = getConnection();
 }catch(Exception e){
